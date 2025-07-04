@@ -1,0 +1,3 @@
+# quotations-app git init git add README.md git commit -m first commit git branch -M main git remote add origin git@github.com:Meyko-dev/quotations-app.git git push -u origin mainecho # quotations-app git init git add README.md git commit -m first commit git branch -M main git remote add origin git@github.com:Meyko-dev/quotations-app.git git push -u origin main
+# quotations-app git init git add README.md git commit -m first commit git branch -M main git remote add origin git@github.com:Meyko-dev/quotations-app.git git push -u origin mainecho # quotations-app git init git add README.md git commit -m first commit git branch -M main git remote add origin git@github.com:Meyko-dev/quotations-app.git git push -u origin main
+# kata1
